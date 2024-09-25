@@ -23,7 +23,7 @@ This is a simple To-Do List application developed in VB.NET with a Microsoft Acc
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/todolist.git
+   git clone https://github.com/ksingh62/VB-ToDoList.git
    
 2. Open the Project
 
